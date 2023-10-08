@@ -1,0 +1,2 @@
+Mean: 4.75
+Standard Deviation: 2.86138
